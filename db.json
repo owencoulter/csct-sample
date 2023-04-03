@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+  "patient_alpha": {
+    "tour": {
+      "r_arm":"time"
+    },
+    "cs": {
+      "chest": "time"
+    },
+    "pd": {},
+    "hd": {},
+    "blood": {
+      "time": "amount"
+    },
+    "ketamine": {
+      "time": "amount",
+      "time2": "amount"
+    },
+    "fetanyl": {},
+    "txa": {},
+    "audio": "transcript"
+  }
+}
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
